@@ -6,4 +6,4 @@
 
 ## 近日总结
 ![quira](https://stats.quira.sh/tianhukj/github?theme=light)
-![quira](https://stats.quira.sh/tianhukj/languages-over-time?theme=light)
+
