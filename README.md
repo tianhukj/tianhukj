@@ -7,3 +7,4 @@
 ## 近日总结
 ![quira](https://stats.quira.sh/tianhukj/github?theme=light)
 
+![tianhukj's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianhukj)
