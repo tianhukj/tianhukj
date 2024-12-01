@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,I'm+tianhukj;A+passionate+frontend+developer+from+China)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,I'm+tianhukj;A+passionate+frontend+developer+from+China)
 
 <h3 align="center">从事代码开发1000年</h3>
 
