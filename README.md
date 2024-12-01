@@ -1,12 +1,10 @@
 <h1 align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi 👋, I'm tianhukj!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm tianhukj;A passionate frontend developer from China!&center=true&size=27">
 	</a>
 </h1>
 
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">代码开发1000年</h3>
 
-**个人履历:从事100年代码开发**
-**主要业务：软件，小程序等开发；1V1教学**
 
 ## 近日总结
 
