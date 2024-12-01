@@ -16,3 +16,5 @@
 ![](https://stats.justsong.cn/api/leetcode/?username=tianhukj&theme=dark)
 
 ![tianhukj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tianhukj&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tianhukj&theme=dark)
