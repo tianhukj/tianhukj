@@ -1,4 +1,4 @@
-<h1 align="center">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,I'm tianhukj;A passionate frontend developer from China)
 
