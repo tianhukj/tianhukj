@@ -1,5 +1,5 @@
 <h1 align="center">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm tianhukj;A passionate frontend developer from China!&center=true&size=27">
+		<img "https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm tianhukj;A passionate frontend developer from China">
 	</a>
 </h1>
 
