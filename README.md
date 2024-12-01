@@ -11,3 +11,5 @@
 ![tianhukj's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianhukj)
 
 ![getloli](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru)
+
+![](https://stats.justsong.cn/api/leetcode/?username=tianhukj&theme=dark)
