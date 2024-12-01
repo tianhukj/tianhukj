@@ -1,9 +1,8 @@
 <h1 align="center">
-		<img "https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm tianhukj;A passionate frontend developer from China">
-	</a>
-</h1>
 
-<h3 align="center">代码开发1000年</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm tianhukj;A passionate frontend developer from China)
+
+<h3 align="center">从事代码开发1000年</h3>
 
 
 ## 近日总结
