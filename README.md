@@ -88,6 +88,15 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianhukj" alt="tianhukj" /></a>
 </p>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianhukj&show_icons=true&theme=vue&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianhukj&layout=compact&langs_count=8&theme=vue&text_bold=true"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj&theme=vue" alt="violet227" />
+</div>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=tianhukj&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 
 <p align="center">
