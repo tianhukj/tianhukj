@@ -72,9 +72,13 @@
 <img src="https://github.com/tianhukj/tianhukj/blob/main/download.svg"></img>
 
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=tianhukj&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/tianhukj-->
+
  
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
