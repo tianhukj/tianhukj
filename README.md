@@ -90,15 +90,10 @@
 
 
 
-
-   <!--machine-learning-->
-
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/tianhukj/count.svg">  
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
 
 
 ## Star History
