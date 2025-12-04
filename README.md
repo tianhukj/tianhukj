@@ -55,7 +55,46 @@
 | **🛠️ Operating Systems & Tool**                 | <a href="https://www.freebsd.org/" target="_blank">![FreeBSD Badge](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)</a> <a href="https://www.kernel.org/" target="_blank">![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)</a> <a href="https://www.apple.com/macos/" target="_blank">![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)</a> <a href="https://www.docker.com/" target="_blank">![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim Badge](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux Badge](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a> |
 | **🔌 Hardware**                                 | <a href="https://www.raspberrypi.org/" target="_blank">![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)</a> <a href="https://riscv.org/" target="_blank">![RISC-V Badge](https://img.shields.io/badge/RISC--V-5B9C1A?style=flat&logo=riscv&logoColor=white)</a> <a href="https://www.arduino.cc/" target="_blank">![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)</a> <a href="https://www.st.com/en" target="_blank">![STM32 Badge](https://img.shields.io/badge/STM32-0072B1?style=flat&logo=stmicroelectronics&logoColor=white)</a> |
 
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
+```text
+🌞 Morning                735 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+🌆 Daytime                895 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌃 Evening                694 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌙 Night                  611 commits         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Wednesday                431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Thursday                 377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   698 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Saturday                 261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Sunday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               4 hrs 6 mins        ████████████████░░░░░░░░░   65.64 % 
+Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Astro                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 16 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
+```
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
