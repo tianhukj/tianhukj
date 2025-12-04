@@ -109,24 +109,13 @@ Mac                      6 hrs 16 mins       ███████████�
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![tianhukj's github stats](https://github-readme-stats.vercel.app/api?username=tianhukj&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tianhukj&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj"></img>
 
 
-<img src="https://github.com/tianhukj/tianhukj/blob/main/download.svg"></img>
+
 
 
 <p align="center">
@@ -137,18 +126,9 @@ Mac                      6 hrs 16 mins       ███████████�
 
 
  
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianhukj" alt="tianhukj" /></a>
-</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tianhukj&show_icons=true&theme=vue&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianhukj&layout=compact&langs_count=8&theme=vue&text_bold=true"/>
-</div>
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tianhukj&theme=vue" alt="violet227" />
